@@ -1,0 +1,17 @@
+Dengan menggunakan API Documentation berikut, buatlah rangkaian pengujian (API Request) menggunakan Postman
+
+API doc
+
+https://final-project-sanbercode.merkha.com/docs/index.html
+
+Buatlah test cases atau request yang bervariasi, tambahkan negative scenario sebanyak mungkin.
+
+HARUS menambahkan dan menggunakan
+
+Variable
+Add Example (menyimpan hasil response body)
+Test Script
+Collection Runner atau monitor
+
+Hasil Jawaban
+https://documenter.getpostman.com/view/25345782/2s935poi2P
